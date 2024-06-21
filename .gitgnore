@@ -1,0 +1,4 @@
+# Ignore file .toml
+
+
+.streamlit/streamlit.toml
